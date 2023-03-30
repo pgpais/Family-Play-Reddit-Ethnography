@@ -1,0 +1,44 @@
+- # Motivation
+	- While previous work has analyzed gaming in the context of families, it always did so in artificial contexts (i.e. interviews, laboratories, questionnaires). Other contexts (such as reddit communities) can provide further insight into what games families seek, how they discuss it and what constraints exist.
+## Research Questions
+	- **How are people talking about playing with their families, specifically in reddit communities ?**
+	- What are the possibilities for promoting family play?
+	- How are games used as a vehicle of communication and expression between family members?
+	- How are gaming experiences constrained by the player's family?
+# Study
+	- ## Data Collection
+		- ### Reddit
+			- #### Data Collection/Selection
+				- **Posts data was collected on [[Feb 14th, 2023]] **
+				- **Comments data was collected on [[Mar 20th, 2023]] **
+				- Analyse posts that talk about family-constrained experiences in gaming subreddits.
+				- **Subreddit** selection:
+					- Collection of reddit gaming communities provided by /r/Gaming with over 1000 entries.
+					- The communities with more than 1000 posts are then sorted by number of relevant (i.e. posts with at least one of the keywords in their title) posts divided by total number of posts.
+				- **Post** selection:
+					- Select from first 20 posts of each subreddit
+						- Select 10 posts maximum
+						- Until we include 20 subreddits with at least 2 relevant posts
+				- **Comment** selection:
+					- Select the top-level comments of each selected post, sorted by "top" (most upvotes)
+				- **Exclusion** criteria:
+					- Exclude posts that:
+						- Are obviously not related to digital gaming
+						- Doesn’t have gaming experiences shared with or constrained by family
+						- Opportunities for family play
+						- Not video
+						  collapsed:: true
+							- (gifs or videos shorter than 30 sec are allowed)
+	- ## Data Analysis
+		- ### Thematic Analysis
+			- Two authors coded 10% of the selected content and discussed results. First author then coded the remaining content
+			- Mentions of games were counted (max 1 per post) and more posts were included from these game's subreddits (how many posts? How many games?)
+			- #### Codes
+				- Shared room (e.g Living room) gaming equipment promotes interactions around the game (e.g. half-spectating the game and commenting on it)
+					- Experience Sharing/Spectating, Forced Collocated
+				- Conversions to gaming can stick in various ways.
+			- #### Themes
+				- One Theme
+				- Another Theme
+# Limitations
+	- No way to verify the content is real/true
