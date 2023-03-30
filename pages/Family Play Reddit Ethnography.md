@@ -1,3 +1,5 @@
+public:: true
+
 - # Motivation
 	- While previous work has analyzed gaming in the context of families, it always did so in artificial contexts (i.e. interviews, laboratories, questionnaires). Other contexts (such as reddit communities) can provide further insight into what games families seek, how they discuss it and what constraints exist.
 ## Research Questions
