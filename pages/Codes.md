@@ -32,6 +32,7 @@
 	- [[Social Outcomes]]
 		- [[Social Outcomes/Dealing with Loneliness]]
 		- [[Social Outcomes/Relationship Maintenance]]
+		- [[Social Outcomes/Building Shared Memories]]
 		- [[Social Outcomes]]
 	- [[Kinship]]
 	  collapsed:: true
