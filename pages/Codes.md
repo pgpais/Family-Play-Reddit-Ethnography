@@ -38,7 +38,16 @@
 		- [[Social Outcomes/Shared Emotions]]
 		- [[Social Outcomes/Subverting Expectations]]
 	- [[Learning Outcomes]]
-	-
+	- [[Other Outcomes]]
+	- [[Motivation to Play]]
+	- [[Personal Aspects]]
+		- [[Preferences]]
+		- [[Skill Levels]]
+		- [[Expertise/Familiarity]]
+		- [[Age]]
+	- [[Game Accessibility]]
+		- [[Game Accessibility/Difficulty]]
+		-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
