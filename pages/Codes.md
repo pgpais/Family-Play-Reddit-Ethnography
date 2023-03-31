@@ -24,7 +24,12 @@
 		- [[Affected by Family/Indirectly affecting others' experience]]
 		- [[Affected by Family/Conform to play together]]
 		- [[Affected by Family/Grief Affecting]]
-		-
+	- [[Desire for Family Gaming]]
+	- [[Gaming Stigma]]
+	- [[Experience Persistence]]
+	- [[Forced Co-location or Shared Equipment]]
+	- [[Parallel between Game and Life]]
+	-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
