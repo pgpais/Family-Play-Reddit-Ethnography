@@ -1,1 +1,1 @@
-- {{query (and [[Family/Sibling]] [[Barrier/Learning Curve]]) }}
+- {{query [[Family/Sibling]]}}
