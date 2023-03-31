@@ -33,7 +33,7 @@ public:: true
 							- (gifs or videos shorter than 30 sec are allowed)
 	- ## Data Analysis
 		- ### Thematic Analysis
-			- [[Code Queries]]
+			- [[Codes]]
 			- Two authors coded 10% of the selected content and discussed results. First author then coded the remaining content
 			- Mentions of games were counted (max 1 per post) and more posts were included from these game's subreddits (how many posts? How many games?)
 			- #### Codes
