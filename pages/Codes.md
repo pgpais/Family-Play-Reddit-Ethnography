@@ -47,7 +47,14 @@
 		- [[Age]]
 	- [[Game Accessibility]]
 		- [[Game Accessibility/Difficulty]]
-		-
+		- [[Game Accessibility/Cost]]
+		- [[Game Accessibility/Easiness to Learn]]
+		- [[Game Accessibility/Cultural Clash]]
+		- [[Game Accessibility/Content Suitability]]
+	- [[Selecting Game]]
+	- [[Platform]]
+	- [[Service]]
+	-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
