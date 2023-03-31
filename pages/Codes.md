@@ -21,6 +21,9 @@
 	- [[Affected by Family]]
 		- [[Affected by Family/Mediating others' playing]]
 		- [[Affected by Family/Facilitating others' entry]]
+		- [[Affected by Family/Indirectly affecting others' experience]]
+		- [[Affected by Family/Conform to play together]]
+		- [[Affected by Family/Grief Affecting]]
 		-
 	- [[Kinship]]
 	  collapsed:: true
