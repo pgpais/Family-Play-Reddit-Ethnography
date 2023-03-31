@@ -29,7 +29,10 @@
 	- [[Experience Persistence]]
 	- [[Forced Co-location or Shared Equipment]]
 	- [[Parallel between Game and Life]]
-	-
+	- [[Social Outcomes]]
+		- [[Social Outcomes/Dealing with Loneliness]]
+		- [[Social Outcomes/Relationship Maintenance]]
+		- [[Social Outcomes]]
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
