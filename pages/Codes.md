@@ -16,7 +16,12 @@
 		- [[Shared Experiences/Serendipitous]]
 	- [[Media Component]]
 		- [[Media Component/Gameplay]]
-		- [[Media Component]]
+		- [[Media Component/Narrative]]
+		- [[Media Component/Music]]
+	- [[Affected by Family]]
+		- [[Affected by Family/Mediating others' playing]]
+		- [[Affected by Family/Facilitating others' entry]]
+		-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
