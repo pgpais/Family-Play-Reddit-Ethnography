@@ -38,7 +38,7 @@
 		- [[Social Outcomes/Shared Emotions]]
 		- [[Social Outcomes/Subverting Expectations]]
 	- [[Learning Outcomes]]
-		-
+	-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
