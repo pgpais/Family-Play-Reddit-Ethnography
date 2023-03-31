@@ -33,7 +33,12 @@
 		- [[Social Outcomes/Dealing with Loneliness]]
 		- [[Social Outcomes/Relationship Maintenance]]
 		- [[Social Outcomes/Building Shared Memories]]
-		- [[Social Outcomes]]
+		- [[Social Outcomes/Finding Commonalities]]
+		- [[Social Outcomes/Shared Reminiscence]]
+		- [[Social Outcomes/Shared Emotions]]
+		- [[Social Outcomes/Subverting Expectations]]
+	- [[Learning Outcomes]]
+		-
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
