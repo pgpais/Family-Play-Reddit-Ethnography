@@ -41,8 +41,8 @@
 	- [[Other Outcomes]]
 	- [[Motivation to Play]]
 	- [[Personal Aspects]]
-		- [[Preferences]]
-		- [[Skill Levels]]
+		- [[Personal Aspects/Preferences]]
+		- [[Personal Aspects/Skill Levels]]
 		- [[Expertise/Familiarity]]
 		- [[Age]]
 	- [[Game Accessibility]]
@@ -54,13 +54,17 @@
 	- [[Selecting Game]]
 	- [[Platform]]
 	- [[Service]]
-	-
+	- [[Co-located]]
+	- [[Remote]]
+	- [[Positive Valence]]
+	- [[Negative Valence]]
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]
 		- [[Kinship/Parent]]
 		- [[Kinship/Grandparent]]
 		- [[Kinship/Child]]
+	- [[Tangibility in Digital Games]] (hoping to find)
 - # Queries on Codes
 	- {{query [[Family/Sibling]]}}
 	  query-table:: false
