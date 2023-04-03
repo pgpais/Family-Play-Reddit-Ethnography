@@ -1,0 +1,1 @@
+- Difficulty understanding some terms used in gaming culture (systems too?)

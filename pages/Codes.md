@@ -5,6 +5,8 @@
 			- [[Shared Experiences/Spectating]]
 				- [[Shared Experiences/Spectating/Active Spectating]]
 			- [[Shared Experiences/Hotseat]]
+			  collapsed:: true
+				- If players are not really taking turns and just spontaneously passing the controller, is it still hotseat?
 			- [[Shared Experiences/Spontaneous Help]]
 		- Outside of Gameplay
 			- [[Shared Experiences/Recounting Individual Experiences]]
@@ -49,8 +51,13 @@
 		- [[Game Accessibility/Difficulty]]
 		- [[Game Accessibility/Cost]]
 		- [[Game Accessibility/Easiness to Learn]]
-		- [[Game Accessibility/Cultural Clash]]
-		- [[Game Accessibility/Content Suitability]]
+		- [[Game Accessibility/Cultural Terms]]
+		- [[Game Accessibility/Content Suitability]] - was "Cultural Clash" before
+		- [[Game Accessibility/Platform]] - new
+	- [[Entry Point]]
+		- [[Entry Point/Interest in theme or narrative]]
+		- [[Entry Point/Another Medium]]
+		- [[Entry Point/Connection with past]]
 	- [[Selecting Game]]
 	- [[Platform]]
 	- [[Service]]
@@ -66,6 +73,7 @@
 		- [[Kinship/Child]]
 	- [[Tangibility in Digital Games]] (hoping to find)
 - # Queries on Codes
+  collapsed:: true
 	- {{query [[Family/Sibling]]}}
 	  query-table:: false
 	  query-properties:: [:block]
