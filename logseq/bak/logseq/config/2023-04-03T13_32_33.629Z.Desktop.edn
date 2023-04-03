@@ -349,7 +349,7 @@
  :publishing/all-pages-public? true
  :ui/show-brackets? false
  :feature/enable-timetracking? false
- :graph/settings {:excluded-pages? false, :journal? false, :builtin-pages? false, :orphan-pages? true}
+ :graph/settings {:excluded-pages? false, :journal? false, :builtin-pages? false, :orphan-pages? false}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

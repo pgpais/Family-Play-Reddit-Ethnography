@@ -47,7 +47,7 @@ public:: true
 					  collapsed:: true
 						- Have some doubts about when this could should be used
 						  collapsed:: true
-							- If I use every time they mention gameplay, for example, it might get muddied really fast (?)
+							- If I use this every time someone mentions gameplay, for example, it might get muddied really fast (?)
 						- [[Media Component/Gameplay]]
 						- [[Media Component/Narrative]]
 					- How family affects the experience
@@ -83,5 +83,10 @@ public:: true
 			- #### Themes
 				- One Theme
 				- Another Theme
+			- Questions & Doubts:
+				- For [[Media Component]]s, if the OP does not mention one specifically, is it okay if I subjectively code?
+					- For example:
+						- ((642ad628-3b13-491a-953c-e483c27e3b72))
+						- Would this be coded with [[Media Component/Narrative]] or [[Media Component/Gameplay]]? Or neither? Or both?
 # Limitations
 	- No way to verify the content is real/true
