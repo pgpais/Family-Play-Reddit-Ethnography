@@ -1,3 +1,5 @@
+state:: [[Coded]]
+
 - Title
 	- My brother missed his birthday trip to Paris because of lock down and now we can't even meet up for board games on his birthday - please suggest a 3-5 player game where we can have some light hearted fun on voice chat
 	  tags:: [[Kinship/Sibling]], [[Shared Experiences/Remote]], [[Voice Chat]]

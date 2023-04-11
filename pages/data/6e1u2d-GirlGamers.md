@@ -1,3 +1,5 @@
+state:: [[Coded]]
+
 - Title
 	- I'm turning 40, I'm a passionate gamer and I wish people/family would stop saying I ruined my life.
 	  tags:: [[Gaming Stigma]]
