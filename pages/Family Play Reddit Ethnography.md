@@ -33,7 +33,7 @@ public:: true
 							- (gifs or videos shorter than 30 sec are allowed)
 	- ## Data Analysis
 		- ### Thematic Analysis
-			- Two authors coded 10% of the selected content and discussed results. First author then coded the remaining content
+			- Two authors coded 25 (one for each subreddit) of the selected content and discussed results. First author then coded the remaining content
 			- Mentions of games were counted (max 1 per post) and more posts were included from these game's subreddits (how many posts? How many games?)
 			- #### [[Codes]]
 				- So far, codes are organized by:
@@ -58,8 +58,9 @@ public:: true
 					- Social outcomes
 					  collapsed:: true
 						- [[Social Outcomes/Building Shared Memories]]
-						- [[Social Outcomes/Shared Reminiscence]], [[Social Outcomes/Subverting Expectations]]
-						- [[Social Outcomes/Finding Commonalities]]
+						- [[Social Outcomes/Shared Reminiscence]]
+						- [[Social Outcomes/Subverting Expectations]]
+						- [[Finding Commonalities]]
 						  collapsed:: true
 							- How is this different from [[Parallel between Game and Life]]?
 					- [[Learning Outcomes]] - probably irrelevant
@@ -69,7 +70,7 @@ public:: true
 					- Personal aspects that affect experience
 					  collapsed:: true
 						- [[Personal Aspects/Skill Levels]]
-						- [[Personal Aspects/Expertise or Familiarity]]
+						- [[Personal Aspects/Familiarity]]
 					- [[Game Accessibility]] - in terms of providing access to games (not disabilities)
 					  collapsed:: true
 						- [[Game Accessibility/Cultural Terms]]
@@ -84,9 +85,6 @@ public:: true
 				- One Theme
 				- Another Theme
 			- Questions & Doubts:
-				- For [[Media Component]]s, if the OP does not mention one specifically, is it okay if I subjectively code?
-					- For example:
-						- ((642ad628-3b13-491a-953c-e483c27e3b72))
-						- Would this be coded with [[Media Component/Narrative]] or [[Media Component/Gameplay]]? Or neither? Or both?
+				-
 # Limitations
 	- No way to verify the content is real/true

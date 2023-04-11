@@ -12,7 +12,7 @@
 	- I'm a grown ass woman who owns her own house, pays her own bills, has a job she doesn't hate, teens to foster, and hobbies galore. Why is the gaming so offensive to people?
 	- I enjoy it, I'm a beast when it comes to RPGs, I'm good at it and when life DOES become over-whelming? Well.....
 	- Gaming is, hands down, the reason I don't need meds to get through the bad days, unlike any of my family or other female friends. All of them, ALL OF THEM, rely on multiple prescriptions just to function. The addictive kind. Uppers to wake up, opiods/xanax all day, downers for bed. Rinse and repeat. Yet I'm the one with a problem?
-	  tags:: [[Other Outcomes]], [[Gaming Stigma]]
+	  tags:: [[Emotional Outcomes]], [[Gaming Stigma]]
 	- We always hear about guys giving girl-gamers crap, but honestly? It's my family and female friends that make me feel like an absolute waste of space for it.
 	  tags:: [[Gaming Stigma]]
 	- How about you guys? Who gives you the most crap and how does it affect your love of the game? Thanks for reading!

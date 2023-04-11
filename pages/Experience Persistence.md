@@ -1,0 +1,1 @@
+- When experience potentiates discussing a while after it is over

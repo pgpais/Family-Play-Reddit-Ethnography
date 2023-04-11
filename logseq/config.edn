@@ -258,7 +258,7 @@
  ;; :block-hidden-properties #{}
 
  ;; Enable all your properties to have corresponding pages
- :property-pages/enabled? true
+ :property-pages/enabled? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

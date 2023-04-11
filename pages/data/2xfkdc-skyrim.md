@@ -5,7 +5,7 @@ tags:: [[Kinship/Parent]]
 - Post
 	- After reading the post /u/OjamaKnight made earlier, it reminded me of when I let my dad play skyrim.
 	- This was a really long time ago, as in about 2 weeks after I got the game on 11/11/11. At the time I did not have a television in my room, so whenever I wanted to play the game I would have to play it in our living room, which is the only place my parents ever spend time, so they watched me play a lot of skyrim.
-	  tags:: [[Kinship/Parent]], [[Shared Experiences/Serendipitous]], [[Forced Co-location or Shared Equipment]], [[Shared Experiences/Spectating]]
+	  tags:: [[Kinship/Parent]], [[Shared Experiences/Serendipitous]], [[Shared Experiences/Shared Gaming Space]], [[Shared Experiences/Spectating]]
 	- One day, when I was playing a thieve's guild only character, my dad noticed me stealing from a bunch of people's houses. He asked me why, and I told him I was a part of the thieves guild. He said that he wouldn't have made such a stupid decision to get involved in a group of thieves, so I offered him to play the game.
 	  tags:: [[Kinship/Parent]], [[Shared Experiences/Discussing Aspects of game]], [[Entry Point/Interest in theme or narrative]], [[Shared Experiences/Spectating]]
 	- He started off, questioning why they would take a random passerby as a prisoner when he didn't do anything.
