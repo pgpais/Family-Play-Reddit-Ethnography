@@ -1,0 +1,8 @@
+Title
+my mom says the most mom things ever
+
+Post
+so I was trying to teach my mom how to play the sims and she wanted to buy something and had to know what the exchange rate of simoleons to US dollars is
+
+Comment
+Come to think of it, what **is** the exchange rate of Simoleons to US dollars?
