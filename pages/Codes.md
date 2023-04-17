@@ -24,10 +24,16 @@
 		- [[Media Component/Music]]
 	- [[Affected by Family]]
 		- [[Affected by Family/Mediating others' playing]]
-		- [[Affected by Family/Facilitating others' entry]]
+		- [[Affected by Family/Facilitating others' play]]
 		- [[Affected by Family/Affecting others' experience]]
 		- [[Affected by Family/Conform to play together]]
 		- [[Affected by Family/Grief Affecting]]
+		- [[Affected by Family/Stopping Gameplay]] - new
+	- [[Addiction]] - new
+		- Might be a bit too specific and maybe could fit under a broader code (e.g. "Downsides of Gaming")
+	- [[Leaving Medium]] - new
+		- Unsure of relevance.
+		- I want to grab that for some reason (determined by other codes), this person (or someone around them) stopped playing (or tried to).
 	- [[Gaming Stigma]]
 	- [[Finding Commonalities]]
 	- [[Experience Persistence]]
@@ -35,6 +41,7 @@
 	- [[Social Outcomes]]
 		- [[Social Outcomes/Dealing with Loneliness]]
 		- [[Social Outcomes/Relationship Maintenance]]
+		- [[Social Outcomes/Building Relationship]] - new
 		- [[Social Outcomes/Building Shared Memories]]
 		- [[Social Outcomes/Shared Reminiscence]]
 		- [[Social Outcomes/Shared Emotions]]
@@ -49,6 +56,7 @@
 		- [[Personal Aspects/Skill Levels]]
 		- [[Personal Aspects/Familiarity]]
 		- [[Personal Aspects/Age]]
+		- [[Personal Aspects/Gender]]
 	- [[Game Accessibility]]
 		- [[Game Accessibility/Difficulty]]
 		- [[Game Accessibility/Cost]]
@@ -69,6 +77,9 @@
 	- [[Voice Chat]]
 	- [[Positive Valence]]
 	- [[Negative Valence]]
+	- [[Providing Guidance]] - new
+	- [[Attrition]] - new
+		- Might not make much sense to capture this code at this level. See code's page for more insights
 	- [[Kinship]]
 	  collapsed:: true
 		- [[Kinship/Sibling]]

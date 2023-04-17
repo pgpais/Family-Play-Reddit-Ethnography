@@ -36,6 +36,7 @@ public:: true
 			- Two authors coded 25 (one for each subreddit) of the selected content and discussed results. First author then coded the remaining content
 			- Mentions of games were counted (max 1 per post) and more posts were included from these game's subreddits (how many posts? How many games?)
 			- #### [[Codes]]
+			  collapsed:: true
 				- So far, codes are organized by:
 					- How the experience is shared
 					  collapsed:: true
@@ -53,7 +54,7 @@ public:: true
 					- How family affects the experience
 					  collapsed:: true
 						- [[Affected by Family/Grief Affecting]]
-						- [[Affected by Family/Facilitating others' entry]]
+						- [[Affected by Family/Facilitating others' play]]
 						- [[Affected by Family/Conform to play together]]
 					- Social outcomes
 					  collapsed:: true
@@ -82,9 +83,13 @@ public:: true
 						- [[Entry Point/Another Medium]]
 						- [[Entry Point/Connection with past]]
 			- #### Themes
-				- One Theme
-				- Another Theme
+				- Possible theme: **Difficulty finding games that can meet different people's preferences**
+					- A bit of a mouthful, but many posts are looking for a game to play with someone else, listing the preferences of each person, games they enjoyed or didn't (and some reasoning).
+					- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
 			- Questions & Doubts:
+				- {{embed ((643d1855-0939-45ac-846b-b0e33d8ad185))}}
+			- Interesting Posts:
+				- {{embed [[rujegi-skyrim]]}}
 				-
 # Limitations
 	- No way to verify the content is real/true

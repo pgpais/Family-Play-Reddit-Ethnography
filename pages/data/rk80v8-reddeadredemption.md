@@ -6,7 +6,7 @@ state:: [[Coded]]
 	- Right, so my father who is well into his 70s and grew up being as much as cowboy as a man from the Mid-West can be. Born on a farm, that dealt with cattle and such. Also, it's was the 40s and they were poor so most of the house didn't have plumbing.
 	- Naturally, he grew up loving tales of the "Wild West" you know the romanticized version most of us know. Like he grew up with The Lone Ranger and John Wayne.
 	- So I and my sibling convinced him to try the game, we knew he would love it, even if getting used to a controller (he's on pc, but we figured the controller would be easier for him). Outside of struggling with the controls, he's having a blast.  He's telling us about what's going on in the game like we don't know, or like he's there. It's really adorable honestly.
-	  tags:: [[Kinship/Parent]], [[Kinship/Sibling]], [[Affected by Family/Facilitating others' entry]], [[Entry Point/Interest in theme or narrative]], [[Game Accessibility/Easiness to Learn]], [[Shared Experiences/Discussing Aspects of game]]
+	  tags:: [[Kinship/Parent]], [[Kinship/Sibling]], [[Affected by Family/Facilitating others' play]], [[Entry Point/Interest in theme or narrative]], [[Game Accessibility/Easiness to Learn]], [[Shared Experiences/Discussing Aspects of game]]
 	  id:: 642ad628-3b13-491a-953c-e483c27e3b72
 	- However, with some help, he made it out of Colter, and to Chapter 2. He got to the point where Hosea talks about selling the Shire and my dad decided not to because it reminded him of a workhorse he had back on the farm in his youth that was named Henry.
 	  tags:: [[Kinship/Parent]], [[Parallel between Game and Life]]

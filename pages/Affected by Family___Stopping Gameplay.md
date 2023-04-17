@@ -1,0 +1,1 @@
+- Family forcing or motivating others to stop playing  (e.g. stopping a game to have dinner)
