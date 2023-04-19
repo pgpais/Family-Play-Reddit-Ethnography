@@ -17,6 +17,9 @@
 			- [[Shared Experiences/Co-located]]
 			- [[Shared Experiences/Remote]]
 		- [[Shared Experiences/Banter]]
+		- [[Shared Experiences/Commenting Gameplay]] - new
+			- Unsure about this code, but felt the need to distinguish from banter
+				- banter is more directed at someone, commenting is not directed at anyone particular
 		- [[Shared Experiences/Serendipitous]]
 	- [[Media Component]]
 		- [[Media Component/Gameplay]]
@@ -38,9 +41,13 @@
 	- [[Finding Commonalities]]
 	- [[Experience Persistence]]
 	- [[Parallel between Game and Life]]
+	- [[Sharing Memories prompted by game]] - new
+		- How is this different from [[Parallel between Game and Life]]?
+		- I want it to capture how games (and any story, really) can prompt someone to remember something and sharing it
 	- [[Social Outcomes]]
 		- [[Social Outcomes/Dealing with Loneliness]]
 		- [[Social Outcomes/Relationship Maintenance]]
+			- [[Social Outcomes/Building Relationship/Intimacy]] - new
 		- [[Social Outcomes/Building Relationship]] - new
 		- [[Social Outcomes/Building Shared Memories]]
 		- [[Social Outcomes/Shared Reminiscence]]
@@ -72,6 +79,8 @@
 	- [[Platform. Services and Features]]
 		- [[Platform, Services and Features/PS4]]
 		- [[Platform, Services and Features/Discovery Queue]]
+		- [[Platform, Services and Features/Cloud Play]] - new
+		- [[Platform, Services and Features/Game Pass]] - new
 	- [[Desire for Family Gaming]]
 	- [[Selecting Game]]
 	- [[Voice Chat]]
@@ -86,6 +95,8 @@
 		- [[Kinship/Parent]]
 		- [[Kinship/Grandparent]]
 		- [[Kinship/Child]]
+	- [[Pregnancy]] - new
+	- [[Personal Aspects/Gender]]
 	- [[Tangibles]]
 - # Queries on Codes
   collapsed:: true
