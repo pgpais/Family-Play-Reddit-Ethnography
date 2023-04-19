@@ -88,6 +88,8 @@ public:: true
 					- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
 			- Questions & Doubts:
 				- {{embed ((643d1855-0939-45ac-846b-b0e33d8ad185))}}
+				- {{embed [[ljz9lu-gamingsuggestions]]}}
+					- I'm not sure if this family dynamic is worth capturing. And if it is, I'm unsure of how to code it. I was thinking of something like escapism?
 			- Interesting Posts:
 				- {{embed [[rujegi-skyrim]]}}
 				-

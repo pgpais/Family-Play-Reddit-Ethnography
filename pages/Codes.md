@@ -32,6 +32,7 @@
 		- [[Affected by Family/Conform to play together]]
 		- [[Affected by Family/Grief Affecting]]
 		- [[Affected by Family/Stopping Gameplay]] - new
+			- Figure out why this is different from [[Affected by Family/Mediating others' playing]]
 	- [[Addiction]] - new
 		- Might be a bit too specific and maybe could fit under a broader code (e.g. "Downsides of Gaming")
 	- [[Leaving Medium]] - new
