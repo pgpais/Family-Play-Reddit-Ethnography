@@ -21,6 +21,9 @@
 			- Unsure about this code, but felt the need to distinguish from banter
 				- banter is more directed at someone, commenting is not directed at anyone particular
 		- [[Shared Experiences/Serendipitous]]
+	- [[Learning new way to play]] - new
+		- This is probably inside [[Shared Experiences]].
+		- It relates to how sometimes, when watching someone else play, you see a new interaction or style of play you didn't think about.
 	- [[Media Component]]
 		- [[Media Component/Gameplay]]
 		- [[Media Component/Narrative]]
@@ -91,11 +94,12 @@
 	- [[Attrition]] - new
 		- Might not make much sense to capture this code at this level. See code's page for more insights
 	- [[Kinship]]
-	  collapsed:: true
 		- [[Kinship/Sibling]]
 		- [[Kinship/Parent]]
 		- [[Kinship/Grandparent]]
 		- [[Kinship/Child]]
+		- [[Kinship/Stepchild]]
+		- [[Kinship/Nephew]]
 	- [[Pregnancy]] - new
 	- [[Personal Aspects/Gender]]
 	- [[Tangibles]]

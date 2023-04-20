@@ -82,16 +82,25 @@ public:: true
 						- [[Entry Point/Interest in theme or narrative]]
 						- [[Entry Point/Another Medium]]
 						- [[Entry Point/Connection with past]]
-			- #### Themes
+			- #### Themes:
 				- Possible theme: **Difficulty finding games that can meet different people's preferences**
 					- A bit of a mouthful, but many posts are looking for a game to play with someone else, listing the preferences of each person, games they enjoyed or didn't (and some reasoning).
 					- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
-			- Questions & Doubts:
+				- Gaming stigma still prevalent to some extent, but some are able to overcome it
+				- Many different ways to enjoy gaming (e.g. narrative, gameplay) provide multiple entry points for "non-gamers"
+				- Games provide many prompts for conversation
+					- How to design for this?
+					- Can the length of games help?
+						- Generally games are not finished in one play session, can that provide moments for discussion between players/spectators?
+			- #### Questions & Doubts:
+			  collapsed:: true
 				- {{embed ((643d1855-0939-45ac-846b-b0e33d8ad185))}}
 				- {{embed [[ljz9lu-gamingsuggestions]]}}
 					- I'm not sure if this family dynamic is worth capturing. And if it is, I'm unsure of how to code it. I was thinking of something like escapism?
-			- Interesting Posts:
+			- #### Interesting Posts:
+			  collapsed:: true
 				- {{embed [[rujegi-skyrim]]}}
+				- {{embed [[i1msn4-PS4]]}}
 				-
 # Limitations
 	- No way to verify the content is real/true
