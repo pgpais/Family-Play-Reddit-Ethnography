@@ -2,6 +2,7 @@
 	- [[Shared Experiences]]
 		- During Gameplay
 			- [[Shared Experiences/Co-playing]]
+				- [[Shared Experiences/Co-playing/Sharing Controller]]
 			- [[Shared Experiences/Spectating]]
 				- [[Shared Experiences/Spectating/Active Spectating]]
 			- [[Shared Experiences/Hotseat]]
@@ -21,6 +22,14 @@
 			- Unsure about this code, but felt the need to distinguish from banter
 				- banter is more directed at someone, commenting is not directed at anyone particular
 		- [[Shared Experiences/Serendipitous]]
+		- [[Shared Experiences/Habit]] - new
+			- Makes sense to code when families make playing together a habit
+		- [[Shared Experiences/Performative]] - new
+			- Code to capture when silly faces or poses augment the experience. ("fazer figuras tristes")
+	- [[Sillyness]] - new
+		- This might be a better code than [[Shared Experiences/Performative]]. Merge the two?
+	- [[Experience Game Vicariously]] - new
+		- Want to capture how experience a game through the other's perspective can be valuable (or not)
 	- [[Learning new way to play]] - new
 		- This is probably inside [[Shared Experiences]].
 		- It relates to how sometimes, when watching someone else play, you see a new interaction or style of play you didn't think about.
@@ -28,6 +37,7 @@
 		- [[Media Component/Gameplay]]
 		- [[Media Component/Narrative]]
 		- [[Media Component/Music]]
+		- [[Media Component/Visuals]]
 	- [[Affected by Family]]
 		- [[Affected by Family/Mediating others' playing]]
 		- [[Affected by Family/Facilitating others' play]]
@@ -51,8 +61,8 @@
 	- [[Social Outcomes]]
 		- [[Social Outcomes/Dealing with Loneliness]]
 		- [[Social Outcomes/Relationship Maintenance]]
-			- [[Social Outcomes/Building Relationship/Intimacy]] - new
 		- [[Social Outcomes/Building Relationship]] - new
+			- [[Social Outcomes/Building Relationship/Intimacy]] - new
 		- [[Social Outcomes/Building Shared Memories]]
 		- [[Social Outcomes/Shared Reminiscence]]
 		- [[Social Outcomes/Shared Emotions]]
@@ -69,13 +79,19 @@
 		- [[Personal Aspects/Age]]
 		- [[Personal Aspects/Gender]]
 	- [[Game Accessibility]]
+		- [[Game Accessibility/Accessibility]] - new
+			- For references to actual accessibility (names should probably change)
 		- [[Game Accessibility/Difficulty]]
 		- [[Game Accessibility/Cost]]
 		- [[Game Accessibility/Easiness to Learn]]
 		- [[Game Accessibility/Cultural Terms]]
 		- [[Game Accessibility/Content Suitability]]
 		- [[Game Accessibility/Platform]]
+		- [[Game Accessibility/Language]]
+		- [[Game Accessibility/Lack of Time]] - new
+			- Interesting that this didn't come up before
 	- [[Entry Point]]
+		- Does this have to be an entry point to active gaming in particular? Can it include spectating?
 		- [[Entry Point/Interest in theme or narrative]]
 		- [[Entry Point/Connection with past]]
 		- [[Entry Point/Another Medium]]
@@ -85,6 +101,9 @@
 		- [[Platform, Services and Features/Discovery Queue]]
 		- [[Platform, Services and Features/Cloud Play]] - new
 		- [[Platform, Services and Features/Game Pass]] - new
+		- [[Platform, Services and Features/Library Sharing]] - new
+		- [[Platform. Services and Features/Party]] - new
+			- party systems, etc.
 	- [[Desire for Family Gaming]]
 	- [[Selecting Game]]
 	- [[Voice Chat]]
@@ -101,7 +120,6 @@
 		- [[Kinship/Stepchild]]
 		- [[Kinship/Nephew]]
 	- [[Pregnancy]] - new
-	- [[Personal Aspects/Gender]]
 	- [[Tangibles]]
 - # Queries on Codes
   collapsed:: true

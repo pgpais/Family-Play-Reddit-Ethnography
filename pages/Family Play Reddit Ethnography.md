@@ -83,24 +83,49 @@ public:: true
 						- [[Entry Point/Another Medium]]
 						- [[Entry Point/Connection with past]]
 			- #### Themes:
-				- Possible theme: **Difficulty finding games that can meet different people's preferences**
+				- Is it possible to **categorise** what **social interactions** or dynamics **games can afford**?
+				  collapsed:: true
+					- For example (from the top of my mind): Stardew Valley is a relaxed game that gives you just enough to do to keep you focused on something, but not so much that it is the only reason for interaction. On the opposite side, something like League of Legends takes too much space in the conversation.
+					- This ties in with the difficulty people have in selecting games
+				- **Difficulty finding games** that can meet different people's preferences
+				  collapsed:: true
 					- A bit of a mouthful, but many posts are looking for a game to play with someone else, listing the preferences of each person, games they enjoyed or didn't (and some reasoning).
 					- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
-				- Gaming stigma still prevalent to some extent, but some are able to overcome it
-				- Many different ways to enjoy gaming (e.g. narrative, gameplay) provide multiple entry points for "non-gamers"
-				- Games provide many prompts for conversation
+				- **Gaming stigma still** prevalent to some extent, but some are able to overcome it
+				- Many different ways to enjoy gaming (e.g. narrative, gameplay, visuals) provide **multiple entry points for "non-gamers"**
+				- Games provide many **prompts for conversation**
+				  collapsed:: true
 					- How to design for this?
 					- Can the length of games help?
 						- Generally games are not finished in one play session, can that provide moments for discussion between players/spectators?
+				- It is possible to play games (sequels, mostly) as a way of **remembering or paying homage to someone that has passed**
+				- **Coping with hard times together** (or individually)
+				  collapsed:: true
+					- Not sure if I found escapism from toxic household?
+				- Gameplay is interrupted by family randomly, but **games do not acommodate spontaneous breaks**
+				  collapsed:: true
+					- This is especially relevant in singleplayer games, but also happens in multiplayer games (how to acommodate spontaneous breaks in a match of LoL?)
+					- {{embed ((6450fa15-9f20-46c6-9bc3-6629b7c226aa))}}
+				- **Reentry in gaming in old age**
 			- #### Questions & Doubts:
-			  collapsed:: true
 				- {{embed ((643d1855-0939-45ac-846b-b0e33d8ad185))}}
 				- {{embed [[ljz9lu-gamingsuggestions]]}}
 					- I'm not sure if this family dynamic is worth capturing. And if it is, I'm unsure of how to code it. I was thinking of something like escapism?
+				- {{embed [[hwo728-thelastofus]]}}
+					- I coded part of this post as [[Gaming Stigma]] because I couldn't figure out another name to give it. It is not stigma per se, but any other code that I'd create would just be merged. What should I call it then?
+				- {{embed [[c97c4k-gaming]]}}
+					- Is there something here that I'm not capturing? I'm not sure that these codes are enough to capture how the parent is affecting the child's game
+				- {{embed ((6450ed16-b39c-4130-b1f0-6fd33977c065))}}
+					- Would Amiibos fit into this code?
+				-
 			- #### Interesting Posts:
 			  collapsed:: true
 				- {{embed [[rujegi-skyrim]]}}
 				- {{embed [[i1msn4-PS4]]}}
+				- {{embed [[cpwmu4-xboxone]]}}
+					- I think that wanting to talk without interrupting the game is something that many families go through. Especially with the rise of competitive games and how long they take to finish.
+						- Personally, I know I've seen this issue many times in my household.
+				- {{embed [[aowque-KingdomHearts]]}}
 				-
 # Limitations
 	- No way to verify the content is real/true
