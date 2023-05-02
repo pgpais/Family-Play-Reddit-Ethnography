@@ -2,7 +2,7 @@ state:: [[Coded]]
 
 - Title
 	- My 80 year old mother wants to try Skyrim... But
-	  tags:: [[Entry Point]], [[Personal Aspects/Age]]
+	  tags:: [[Personal Aspects/Age]]
 - Post
 	- I moved my mom in with me in the fall, and she's been looking over my shoulder when I play. Because I almost never fast travel, she mostly just sees a lot of beautiful scenery, but she's very concerned about fighting. She's a profoundly violence-adverse person, and I know she'll nope right out as soon as she hits Helgen.
 	  tags:: [[Kinship/Parent]], [[Shared Experiences/Co-located]], [[Shared Experiences/Spectating]], [[Game Accessibility/Content Suitability]], [[Personal Aspects/Age]]

@@ -44,8 +44,7 @@
 		- [[Affected by Family/Affecting others' experience]]
 		- [[Affected by Family/Conform to play together]]
 		- [[Affected by Family/Grief Affecting]]
-		- [[Affected by Family/Stopping Gameplay]] - new
-			- Figure out why this is different from [[Affected by Family/Mediating others' playing]]
+		- [[Affected by Family/Interruptions]] - new
 	- [[Addiction]] - new
 		- Might be a bit too specific and maybe could fit under a broader code (e.g. "Downsides of Gaming")
 	- [[Leaving Medium]] - new
@@ -88,7 +87,7 @@
 		- [[Game Accessibility/Content Suitability]]
 		- [[Game Accessibility/Platform]]
 		- [[Game Accessibility/Language]]
-		- [[Game Accessibility/Lack of Time]] - new
+		- [[Game Accessibility/Time Constraints]] - new
 			- Interesting that this didn't come up before
 	- [[Entry Point]]
 		- Does this have to be an entry point to active gaming in particular? Can it include spectating?

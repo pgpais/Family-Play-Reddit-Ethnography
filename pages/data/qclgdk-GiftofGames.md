@@ -4,7 +4,6 @@ state:: [[Coded]]
 	- [GOG] /u/hru321, my brother and I express our heartfelt gratitude for giving us theHunter: Call of the Wild.
 - Post
 	- /u/hru321, my brother is pretty new to gaming. However, he really enjoyed the gameplays I showed him and is eager to play the game once the download completes. I'll be getting a controller to join him as well. After I told him about you, here's what he said (translated):
-	  tags:: [[Kinship/Sibling]] [[Entry Point]]
 	- >hru321 (I hope I said it right, haha) thanks a lot for the game. My brother asked for some interesting animal facts yesterday and I had no idea why. Well, now I know. My brother knows a lot more about animals and yet he decided to use the fact I stated to enter the competition. It makes me happy to think that this helped us win.
 	- >
 	- >We'd love to play with you sometimes if it's possible. This just made my day a lot better. I hope you too have a great day. Again, thanks a lot for the game.

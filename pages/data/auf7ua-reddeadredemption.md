@@ -4,7 +4,7 @@ state:: [[Coded]]
 	- Something My Wife Said When She Beat Chapter 6
 - Post
 	- My wife and I are both huge fans of this game, but right when Red Dead 2 came out, she started grad school. I work a regular 9-5 job, so I didn't have many problems getting through the game in a timely manner, but my wife was playing the game really slowly, only finding time every couple days to do a mission.
-	  tags:: [[Kinship/Spouse]] [[Game Accessibility/Lack of Time]]
+	  tags:: [[Kinship/Spouse]] [[Game Accessibility/Time Constraints]]
 	- Anyway, today I watched her beat Chapter 6, and something she said really struck me and honestly made me tear up. Right as Arthur died up on the rock, looking out over the valley as the sun rose, my wife just said one thing: "I'm so happy he didn't die in a city."
 	  tags:: [[Kinship/Spouse]] [[Shared Experiences/Discussing Aspects of game]] [[Media Component/Narrative]]
 	- That wasn't even something I thought about when I beat Chapter 6, and it really struck me hard. I think I was so dizzy from the last hour of the chapter that I hadn't taken time to really think about Arthur's final moments.

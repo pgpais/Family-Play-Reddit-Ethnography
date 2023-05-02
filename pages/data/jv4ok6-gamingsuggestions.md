@@ -9,7 +9,7 @@ state:: [[Coded]]
 	- At the moment my daughters have a Nintendo 3DS each and a tablet, and my older daughter has a laptop (allegedly for homework!). They like a range of games (favourites have been the Pokemon games and Stardew Valley) and we've enjoyed playing Mario Kart together on the Wii.
 	  tags:: [[Kinship/Child]] [[Shared Experiences/Co-playing]]
 	- I've been a gamer my whole life and can pick up most games fairly quickly. My wife doesn't play games much at all, but is willing to give anything a go, as long as it's not too complicated, in the name of family fun.
-	  tags:: [[Kinship/Spouse]] [[Desire for Family Gaming]] [[Entry Point]] [[Game Accessibility/Easiness to Learn]]
+	  tags:: [[Kinship/Spouse]] [[Desire for Family Gaming]] [[Game Accessibility/Easiness to Learn]]
 	- Two-player games also appreciated, especially if they encourage co-operation.
 	- Any pointers?
 - Comment
