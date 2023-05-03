@@ -85,52 +85,100 @@ public:: true
 				- They centered around aspects of the game itself (e.g. Narrative, visuals, gameplay). Some parents and children specifically mentioned how playing together created moments of bonding and promoted talking about things that would not be talked otherwise
 				- See [[Shared Experiences]] hierarchy for details on what forms were found
 		- ### Themes:
-			- Is it possible to **categorise** what **social interactions** or dynamics **games can afford**?
+			- #### Satisfying different playing constraints
 			  collapsed:: true
-				- For example (from the top of my mind): Stardew Valley is a relaxed game that gives you just enough to do to keep you focused on something, but not so much that it is the only reason for interaction. On the opposite side, something like League of Legends takes too much space in the conversation.
-				- This ties in with the difficulty people have in selecting games
-			- **Difficulty finding games** that can meet different people's preferences
+				- Families generally include people with different constraints. These can take the form of preferences (e.g. Preferring slower games or games with fast, chaotic interactions) or requirements (e.g. Time schedules, platforms, controls).
+			- #### Stereotyped views on games and gaming
 			  collapsed:: true
-				- A bit of a mouthful, but many posts are looking for a game to play with someone else, listing the preferences of each person, games they enjoyed or didn't (and some reasoning).
-				- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
-				- {{query (property :tags [[Selecting Game]])}}
-				  collapsed:: true
-			- **Gaming stigma still prevalent** to some extent, but some are able to overcome it
+				- Posters complained about stigma towards gaming. These biases can appear in different ways.
+					- Some explained how their families saw games as an activity for children, describing how they are looked down on for playing in spite of how successful they might be in other aspects of life.
+					- Others had conflicts with how games were portrayed as "dumb activities" or how they were a waste of time.
+			- #### Experiencing games without playing them (spectating)
+				- Playing games is not the only way to experience them. This can be seen in the posts we gathered, specifically how some families experienced games by having one person playing them and either spectating or discussing the experience with each other.
+					- It is especially easy to experience narrative-focused games by spectating someone else playing. In these cases, discussion tends to be generated around major plot points or decisions the player has to make.
+			- #### Initiating Play
+				- It is important to understand how *gamers* introduce the medium to their fellow family members. This can inspire novel features that support sharing these experiences with less experienced players or people that do not play at all.
+				- Multiple posts nodded to initializing
+				- Some posters asked for suggestions of games to play with other family members (e.g. spouses, children, parents). Here, many exposed difficulties they felt when introducing games to others.
+					- Mainly easiness to learn
+					- Controls
+					- Suitability of content (e.g. nudity, gore)
+				- Others explained how some games enabled some form of shared experience.
+					- Creating a connection with the person's past (e.g. fishing, being a mechanic, cowboy lifestyle)
+					- Transitioning from a different medium (e.g. Last of Us tv show)
+					- Connecting with each other through a shared activity
+						- Discussion on why or how this is easier with games than other mediums?
+							- Games tend to require active participation and cooperating promotes communication which is a good support for building relationships (*is this true?)*
+			- #### Social interactions caused by games outside of gameplay
+				-
+			- #### Games for Coping
+			- #### Relationship Maintenance Behaviours
+			- #### Sharing Gaming Spaces
+			- #### Family Play Motivations
+				- Already in Games for Coping and Relationship Maintenance (?)
+			- #### Mediation of play
+				- How families try to control amount of time dedicated to playing games (e.g. addiction)
+			- #### Negatives of Family Play(?)
+			- Deprecated:
 			  collapsed:: true
-				- {{query (property :tags [[Gaming Stigma]])}}
+				- Is it possible to **categorise** what **social interactions** or dynamics **games can afford**?
 				  collapsed:: true
-			- Many different ways to enjoy gaming (e.g. narrative, gameplay, visuals) provide **multiple entry points for "non-gamers"**
-			  collapsed:: true
-				- {{query (or (property :tags [[Entry Point]]) (property :tags [[Entry Point/Another Medium]]) (property :tags [[Entry Point/Interest in theme or narrative]]) (property :tags [[Entry Point/Connection with past]]) (property :tags [[Entry Point]]))}}
+					- For example (from the top of my mind): Stardew Valley is a relaxed game that gives you just enough to do to keep you focused on something, but not so much that it is the only reason for interaction. On the opposite side, something like League of Legends takes too much space in the conversation.
+					- This ties in with the difficulty people have in selecting games
+				- Shared gaming spaces
 				  collapsed:: true
-			- Games provide many **prompts for conversation**
-			  collapsed:: true
-				- How to design for this?
-				- Can the length of games help?
-					- Generally games are not finished in one play session, can that provide moments for discussion between players/spectators?
-				- {{query (property :tags [[Shared Experiences/Shared Gaming Space]])}}
+					- Tensions and opportunities
+					- For discussion: the consequences of socioeconomic differences in families in this balance of tensions vs opportunities
+						- more tensions -> more opportunities
+						- less tensions -> less opportunities
+				- **Difficulty finding games** that can meet different people's preferences
 				  collapsed:: true
-				- {{query (or (property :tags [[Social Outcomes]]) (property :tags [[Social Outcomes/Building Relationship]]) (property :tags [[Social Outcomes/Relationship Maintenance]]) (property :tags [[Social Outcomes/Building Shared Memories]]))}}
+					- [[Selecting Game]], [[Personal Aspects]], [[Game Accessibility]]
+					- A bit of a mouthful, but many posts are looking for a game to play with someone else, listing the preferences of each person, games they enjoyed or didn't (and some reasoning).
+					- I'm not sure that there is any new information to add here, though. Besides that this problem exists.
+					- What are the main constraints that show up? How are they showing up?
+					- {{query (property :tags [[Selecting Game]])}}
+					  collapsed:: true
+				- **Gaming stigma still prevalent** to some extent, but some are able to overcome it
 				  collapsed:: true
-			- It is possible to play games (sequels, mostly) as a way of **remembering or paying homage to someone that has passed**
-			  collapsed:: true
-				- {{query (or (property :tags [[Affected by Family/Grief Affecting]]) (property :tags [[Social Outcomes/Sharing in Hard Times]]))(property :tags [[Affected by Family/Grief Affecting]])(property :tags [[Affected by Family/Grief Affecting]])}}
+					- {{query (property :tags [[Gaming Stigma]])}}
+					  collapsed:: true
+				- Many different ways to enjoy gaming (e.g. narrative, gameplay, visuals) provide **multiple entry points for "non-gamers"**
 				  collapsed:: true
-			- **Coping with hard times together** (or individually)
-			  collapsed:: true
-				- Not sure if I found escapism from toxic household?
-				- {{query (property :tags [[Social Outcomes/Sharing in Hard Times]])}}
+					- {{query (or (property :tags [[Entry Point]]) (property :tags [[Entry Point/Another Medium]]) (property :tags [[Entry Point/Interest in theme or narrative]]) (property :tags [[Entry Point/Connection with past]]) (property :tags [[Entry Point]]) (property :tags [[Affected by Family/Facilitating others' play]]))}}
+					  collapsed:: true
+				- Games provide many **prompts for conversation**
 				  collapsed:: true
-			- Gameplay is interrupted by family randomly, but **games do not acommodate spontaneous breaks**
-			  collapsed:: true
-				- This is especially relevant in singleplayer games, but also happens in multiplayer games (how to acommodate spontaneous breaks in a match of LoL?)
-				- {{embed ((6450fa15-9f20-46c6-9bc3-6629b7c226aa))}}
-				- {{query (or (property :tags [[Game Accessibility/Lack of Time]]) (property :tags [[Affected by Family/Stopping Gameplay]]))(property :tags [[Game Accessibility/Lack of Time]])(property :tags [[Game Accessibility/Lack of Time]])}}
+					- How to design for this?
+					- Can the length of games help?
+						- Generally games are not finished in one play session, can that provide moments for discussion between players/spectators?
+					- What aspects are discussed in [[Shared Experiences/Discussing Aspects of game]]? How are they discussed?
+					- {{query (property :tags [[Shared Experiences/Shared Gaming Space]])}}
+					  collapsed:: true
+					- {{query (or (property :tags [[Social Outcomes]]) (property :tags [[Social Outcomes/Building Relationship]]) (property :tags [[Social Outcomes/Relationship Maintenance]]) (property :tags [[Social Outcomes/Building Shared Memories]]))}}
+					  collapsed:: true
+				- It is possible to play games (sequels, mostly) as a way of **remembering or paying homage to someone that has passed**
 				  collapsed:: true
-			- **Reentry in gaming in old age**
-			  collapsed:: true
-				- {{query (and (property :tags [[Personal Aspects/Age]]) (or (property :tags [[Entry Point]]) (property :tags [[Entry Point/Another Medium]]) (property :tags [[Entry Point/Connection with past]]) (property :tags [[Entry Point/Interest in theme or narrative]])))}}
+					- {{query (or (property :tags [[Affected by Family/Grief Affecting]]) (property :tags [[Social Outcomes/Sharing in Hard Times]]))(property :tags [[Affected by Family/Grief Affecting]])(property :tags [[Affected by Family/Grief Affecting]])}}
+					  collapsed:: true
+				- **Coping with hard times together** (or individually)
 				  collapsed:: true
+					- Not sure if I found escapism from toxic household?
+					- {{query (property :tags [[Social Outcomes/Sharing in Hard Times]])}}
+					  collapsed:: true
+				- Gameplay is interrupted by family randomly, but **games do not acommodate spontaneous breaks**
+				  collapsed:: true
+					- This is especially relevant in singleplayer games, but also happens in multiplayer games (how to acommodate spontaneous breaks in a match of LoL?)
+					- {{embed ((6450fa15-9f20-46c6-9bc3-6629b7c226aa))}}
+					- {{query (or (property :tags [[Game Accessibility/Lack of Time]]) (property :tags [[Affected by Family/Stopping Gameplay]]))(property :tags [[Game Accessibility/Lack of Time]])(property :tags [[Game Accessibility/Lack of Time]])}}
+					  collapsed:: true
+				- Mediation by family environment
+				  collapsed:: true
+					- Sprinkled in other sections
+				- **Reentry in gaming in old age**
+				  collapsed:: true
+					- {{query (and (property :tags [[Personal Aspects/Age]]) (or (property :tags [[Entry Point]]) (property :tags [[Entry Point/Another Medium]]) (property :tags [[Entry Point/Connection with past]]) (property :tags [[Entry Point/Interest in theme or narrative]])))}}
+					  collapsed:: true
 		- #### Questions & Doubts:
 		  collapsed:: true
 			- {{embed ((643d1855-0939-45ac-846b-b0e33d8ad185))}}

@@ -32,6 +32,7 @@
 		- Want to capture how experience a game through the other's perspective can be valuable (or not)
 	- [[Learning new way to play]] - new
 		- This is probably inside [[Shared Experiences]].
+			-
 		- It relates to how sometimes, when watching someone else play, you see a new interaction or style of play you didn't think about.
 	- [[Media Component]]
 		- [[Media Component/Gameplay]]
