@@ -27,4 +27,5 @@ state:: [[Coded]]
 	  tags:: [[Game Accessibility/Difficulty]]
 	- Minecraft is more beginner friendly. The combat is fairly easy, there is no maximum carry weight, you’re never in any more danger than you want to be in per se. also the base building, mining, and farming is generally more enjoyable in Minecraft
 	  tags:: [[Game Accessibility/Difficulty]]
+	  id:: 64512154-90d4-4d05-8f34-4e017a3f06e7
 	- TL;DR valheim is a bit frustrating and so far it’s not all that full of content while Minecraft has better progression, simpler combat and more To work on around the base.

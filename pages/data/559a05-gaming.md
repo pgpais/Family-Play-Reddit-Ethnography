@@ -3,6 +3,7 @@ state:: [[Coded]]
 - Title
 	- My husband died and I want to get really good at super mario brothers so I can hear all the music again
 	  tags:: [[Kinship/Spouse]] [[Affected by Family/Grief Affecting]] [[Motivation to Play]]
+	  id:: 64512151-093c-4306-aee5-1f6391a7c196
 - Post
 	- My husband used to play super mario brothers on our original nintendo while I was cooking, and I want to hear the music again. I feel like getting good at this game will give me something fun to focus on in my grief, as well.
 	  tags:: [[Kinship/Spouse]] [[Affected by Family/Grief Affecting]] [[Motivation to Play]] [[Social Outcomes/Building Shared Memories]] [[Shared Experiences/Shared Gaming Space]]

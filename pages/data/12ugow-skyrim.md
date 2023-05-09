@@ -5,6 +5,7 @@ state:: [[Coded]]
 - Post
 	- My 16 year old daughter is always geeking out on Skyrim.. She studies the wiki, she helps people on forums, She has over 400 hours in to the game. She has done pretty much everything there is to do and then some.. She cant stop talking about the dragonborn expansion so with that said.. I want to make her a Skyrim book like i have seen a couple people do on here. I dont have a huge budget but i want to make it badass! I found a pdf of all the skyrim books.. So this is where i need you guys..
 	  tags:: [[Kinship/Child]] [[Shared Experiences/Discussing Aspects of game]] [[Shared Experiences/Projecting game into Real life]] [[Social Outcomes]]
+	  id:: 64512151-db62-40df-b727-4b56614ca4a3
 	- 1. Where is a good place to have the pages printed on good paper/cut/prepped 
 	  2. Where do i have it bound in something aged.. or old?
 	- Appreciate any help!

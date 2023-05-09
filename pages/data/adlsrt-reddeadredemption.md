@@ -8,6 +8,7 @@ state:: [[Coded]]
 	  tags:: [[Kinship/Parent]] [[Personal Aspects/Age]] [[Entry Point/Interest in theme or narrative]] [[Game Accessibility/Easiness to Learn]]
 	- I had a feeling he'd really love RDR2, so I've been bringing my PS4 over to my parent's house every other weekend or so and he watches me play. Anytime a moral decision, stranger mission, random event, or an NPC that needs help comes up, I let him decide what to do. I also let him decide all on all the customization options.
 	  tags:: [[Kinship/Parent]] [[Entry Point/Interest in theme or narrative]] [[Shared Experiences/Discussing Aspects of game]] [[Shared Experiences/Spectating/Active Spectating]]
+	  id:: 64512152-9b46-470f-8f50-fe49cd999fa0
 	- We're at the Saint Denis chapter right now and he's really enjoying the story so far. He loves the dialogue and busts out laughing anytime Arthur displays his sardonic wit. We've had some good conversations about the story, the characters, their motivations, and he's even theorized on how some plot points will turn out.
 	  tags:: [[Kinship/Parent]] [[Shared Experiences/Discussing Aspects of game]]
 	- Anyway, I know this sub is mostly memes and online bashing, I just thought I'd share my little experience with the game.

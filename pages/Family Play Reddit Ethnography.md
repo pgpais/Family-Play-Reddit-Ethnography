@@ -9,7 +9,6 @@ public:: true
 	- How are gaming experiences constrained by the player's family?
 # Study
 	- ## Data Collection
-	  collapsed:: true
 		- ### Reddit
 			- #### Data Collection/Selection
 				- **Posts data was collected on [[Feb 14th, 2023]] **
@@ -18,6 +17,7 @@ public:: true
 				- **Subreddit** selection:
 					- Collection of reddit gaming communities provided by /r/Gaming with over 1000 entries.
 					- The communities with more than 1000 posts are then sorted by number of relevant (i.e. posts with at least one of the keywords in their title) posts divided by total number of posts.
+					- Counted mentioned games from posts and fetched new posts from subreddits of these games
 				- **Post** selection:
 					- Select from first 20 posts of each subreddit
 						- Select 10 posts maximum
@@ -86,37 +86,100 @@ public:: true
 				- See [[Shared Experiences]] hierarchy for details on what forms were found
 		- ### Themes:
 			- #### Satisfying different playing constraints
-			  collapsed:: true
-				- Families generally include people with different constraints. These can take the form of preferences (e.g. Preferring slower games or games with fast, chaotic interactions) or requirements (e.g. Time schedules, platforms, controls).
+				- Families generally include people with different constraints.
+				- preferences (e.g. Preferring slower games or games with fast, chaotic interactions)
+					- Combining slower-paced and faster-paced preferences preferences
+					- Content (e.g. gore, sex)
+					  collapsed:: true
+						- {{embed ((64512151-465c-49fb-b91a-08feb41accdb))}}
+				- requirements (e.g. Time schedules, platforms, controls)
+					- Skill Requirements
+					  collapsed:: true
+						- {{embed ((64512153-ccb6-45e2-8d71-a43a509aee49))}}
+						- {{embed ((64512153-14b4-4443-a169-9226e5203a4d))}}
+						- {{embed ((64512154-90d4-4d05-8f34-4e017a3f06e7))}}
+					- Time schedules don't align
+					- Small portions of time available
+					- Language
+					  collapsed:: true
+						- {{embed ((64512152-caff-41cb-8561-79e31c682110))}}
 			- #### Stereotyped views on games and gaming
 			  collapsed:: true
 				- Posters complained about stigma towards gaming. These biases can appear in different ways.
 					- Some explained how their families saw games as an activity for children, describing how they are looked down on for playing in spite of how successful they might be in other aspects of life.
 					- Others had conflicts with how games were portrayed as "dumb activities" or how they were a waste of time.
 			- #### Experiencing games without playing them (spectating)
+			  collapsed:: true
 				- Playing games is not the only way to experience them. This can be seen in the posts we gathered, specifically how some families experienced games by having one person playing them and either spectating or discussing the experience with each other.
 					- It is especially easy to experience narrative-focused games by spectating someone else playing. In these cases, discussion tends to be generated around major plot points or decisions the player has to make.
 			- #### Initiating Play
 				- It is important to understand how *gamers* introduce the medium to their fellow family members. This can inspire novel features that support sharing these experiences with less experienced players or people that do not play at all.
-				- Multiple posts nodded to initializing
-				- Some posters asked for suggestions of games to play with other family members (e.g. spouses, children, parents). Here, many exposed difficulties they felt when introducing games to others.
-					- Mainly easiness to learn
-					- Controls
-					- Suitability of content (e.g. nudity, gore)
-				- Others explained how some games enabled some form of shared experience.
-					- Creating a connection with the person's past (e.g. fishing, being a mechanic, cowboy lifestyle)
-					- Transitioning from a different medium (e.g. Last of Us tv show)
-					- Connecting with each other through a shared activity
-						- Discussion on why or how this is easier with games than other mediums?
-							- Games tend to require active participation and cooperating promotes communication which is a good support for building relationships (*is this true?)*
-			- #### Social interactions caused by games outside of gameplay
-				-
+				- Games are generally too complex to introduce to someone not used to them
+					- {{embed ((64512153-9227-4d8c-beb7-f74753f77237))}}
+					- {{embed ((64512154-932f-4935-a2c9-671d40ed232a))}}
+					-
+				- Influence of other media
+				  collapsed:: true
+					- {{embed ((64512154-c43d-4ee7-bed2-dfcdafef5ca3))}}
+					- {{embed ((64512151-3f71-4176-8ef0-6202bbc73b8a))}}
+				- Connection with past
+				  collapsed:: true
+					- {{embed ((64512152-9b46-470f-8f50-fe49cd999fa0))}}
+				- For other family members
+					- Generally older parents.
+					- Some already had experience with games
+				- With other family members
+					- Some posters asked for suggestions of games to play with other family members (e.g. spouses, children, parents).
+						- Here, many exposed difficulties they felt when introducing games to others.
+							- Mainly easiness to learn
+							- Controls
+							- Suitability of content (e.g. nudity, gore)
+			- #### Forms of Shared experience.
+				- Creating a connection with the person's past (e.g. fishing, being a mechanic, cowboy lifestyle)
+				- Transitioning from a different medium (e.g. Last of Us tv show)
+				- Connecting with each other through a shared activity
+					- Discussion on why or how this is easier with games than other mediums?
+						- Games tend to require active participation and cooperating promotes communication which is a good support for building relationships (*is this true?)*
+			- #### Social interactions outside of gameplay caused by games
+			  collapsed:: true
+				- Reliving game in real life
+					- How games translate into activities in real life
+					- Private Jokes
+					  collapsed:: true
+						- {{embed ((64512152-5a27-4ca7-9fa7-75bc47180483))}}
+					- Cosplay (Why is this relevant? Acting out with family? Any REF on how this improves bonding?)
+					  collapsed:: true
+						- {{embed ((64512151-2c52-47e0-8bcc-50ad499b5d4e))}}
+					- Gifts
+					  collapsed:: true
+						- {{embed ((64512151-db62-40df-b727-4b56614ca4a3))}}
 			- #### Games for Coping
+			  collapsed:: true
+				- In line with how some people use games to escape reality (REF), also happens in families
+					- Remembering passed people
+					  collapsed:: true
+						- {{embed ((64512151-093c-4306-aee5-1f6391a7c196))}}
+						- {{embed ((64512151-4c37-4b4a-9694-1ded5cb6e261))}}
+					- Deathbed
+					  collapsed:: true
+						- {{embed ((64512154-5746-4bbc-8381-3b9ce8dd961f))}}
+					- Coping
+					  collapsed:: true
+						- {{embed ((64512152-c7a1-458b-b69f-203693b3593e))}}
+						- {{embed ((64512152-bde4-4c66-9772-b929dceff5e5))}}
 			- #### Relationship Maintenance Behaviours
+			  collapsed:: true
+				- {{embed ((64512151-51f0-4079-a32d-0e6651deaf54))}}
+				- {{embed ((64512152-8ff7-4543-aa49-cc2300dcd2b9))}}
+				- {{embed ((64512152-082a-432d-9012-2b6b5b2e4cf1))}}
 			- #### Sharing Gaming Spaces
+			  collapsed:: true
+				- {{embed ((64512151-51f0-4079-a32d-0e6651deaf54))}}
 			- #### Family Play Motivations
+			  collapsed:: true
 				- Already in Games for Coping and Relationship Maintenance (?)
 			- #### Mediation of play
+			  collapsed:: true
 				- How families try to control amount of time dedicated to playing games (e.g. addiction)
 			- #### Negatives of Family Play(?)
 			- Deprecated:
@@ -202,3 +265,4 @@ public:: true
 			-
 # Limitations
 	- No way to verify the content is real/true
+	- Gaming subreddits list may not contain some recent subreddits. For example, it did not contain the subreddit for the It Takes Two game, released in 2021
