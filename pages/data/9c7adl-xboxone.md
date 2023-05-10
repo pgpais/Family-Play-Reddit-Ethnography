@@ -17,7 +17,8 @@ state:: [[Coded]]
 	- But it was still fun. We kept it up. We got better. Coordinated more. Picked up a few randoms (5 of us were playing so we always had 3 randoms). The game doesn’t feel so slow any more when you’re in the midst of vehicles and intense firefights. Things REALLY kicked into gear when we got Neutral Bomb on Stand Off.
 	- Between the beautiful HDR lighting on a sunset level and the havoc of trying to coordinate an attack or holding the base, there was just something that was pure fun when humming the Indiana Jones theme while cruising in the Warthog only to be completely obliterated by a Splaser 10 seconds later. And the explosions, vehicle destruction, lighting and debris are somehow still just as satisfying.
 	- I loved every second of this experience. When we lost we laughed, when we won we cheered. This is something I can’t wait to bring my own kids in on to join in fragging with Grammy and Papa.
-	  tags:: [[Kinship/Parent]] [[Kinship/Child]] [[Social Outcomes/Shared Emotions]] [[Shared Experiences/Co-playing]]
+	  tags:: [[Kinship/Parent]], [[Kinship/Child]], [[Social Outcomes/Shared Emotions]], [[Shared Experiences/Co-playing]]
+	  id:: 64521f6e-551e-4a3e-bd2b-d5a0c08d25a0
 	- EDIT: Thank you 343 For the work out into this game. That wait sucked but the pay off was huge.
 	- EDIT2: thanks to u/khfan60 for reminding me that right now we have a fairly limited playlist that is going to expand to include more memorable modes and more varied content like SWAT and infection. I also recommend people’s check out Action Sack for the time being :)
 - Comment

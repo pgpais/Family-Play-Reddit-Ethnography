@@ -34,7 +34,8 @@ state:: [[Coded]]
 	- When I got to the end of the game, he was happy with how it ended, but he was also sad to see it go.  I told him that there were still things that needed to be done (Valkyries, Ravens, niflheim) and he let out a big sigh of relief. I asked him if he enjoyed it as much as he said he would, and "and more."
 	  tags:: [[Kinship/Parent]] [[Shared Experiences/Spectating]] [[Shared Experiences/Shared Gaming Space]] [[Shared Experiences/Discussing Aspects of game]] [[Positive Valence]]
 	- After I finished all of the other stuff I had to do, he asked if there were any other games that I could play like God of War. I said, there definitely are game out there that are like it, but the stories will be different, obviously. He said, "I can't wait"
-	  tags:: [[Kinship/Parent]] [[Shared Experiences/Spectating]] [[Shared Experiences/Shared Gaming Space]] [[Shared Experiences/Discussing Aspects of game]] [[Positive Valence]] [[Desire for Family Gaming]]
+	  tags:: [[Kinship/Parent]], [[Shared Experiences/Spectating]], [[Shared Experiences/Shared Gaming Space]], [[Shared Experiences/Discussing Aspects of game]], [[Positive Valence]], [[Desire for Family Gaming]]
+	  id:: 64424d91-3fed-4cdc-8d5c-d24e232b2d74
 	- This is something that I figured I would share here, as I think it's something you guys would appreciate. Thanks for reading!
 	- TL:DR; my dad hates video games. I played god of war with/for him, now he likes video games.
 - Comment
