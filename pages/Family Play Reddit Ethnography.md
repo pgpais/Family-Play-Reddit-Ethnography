@@ -9,8 +9,8 @@ public:: true
 	- What are the possibilities for promoting family play?
 	- How are games used as a vehicle of communication and expression between family members?
 	- How are gaming experiences constrained by the player's family?
-# Study
-collapsed:: true
+- # Study
+  collapsed:: true
 	- ## Data Collection
 	  collapsed:: true
 		- ### Reddit
@@ -88,22 +88,18 @@ collapsed:: true
 				- In this sense, a shared gaming space (where a console typically is) provides an "interaction generator" (terrible name, describe it differently).
 					- Jesse Schell calls this type of gaming space the "Hearth" in [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Lenses-Third-dp-1138632058/dp/1138632058)
 		- These interactions can take many forms
-			- They centered around aspects of the game itself (e.g. Narrative, visuals, gameplay). Some parents and children specifically mentioned how playing together created moments of bonding and promoted talking about things that would not be talked otherwise
+			- They centered around aspects of the game itself (e.g. Narrative, visuals, gameplay). Some parents and children specifically mentioned how playing together created moments of bonding and promoted talking about things that would not be talked about otherwise
 			- See [[Shared Experiences]] hierarchy for details on what forms were found
 	- ## Themes:
 		- ### Family Play Motivations (intro to findings?)
-		  collapsed:: true
 			- Already in Games for Coping and Relationship Maintenance (?)
 		- ### Satisfying different playing constraints
 			- Families generally include people with different constraints.
 			- preferences (e.g. Preferring slower games or games with fast, chaotic interactions)
-			  collapsed:: true
 				- Combining slower-paced and faster-paced preferences preferences
 				- Content (e.g. gore, sex)
-				  collapsed:: true
 					- {{embed ((64512151-465c-49fb-b91a-08feb41accdb))}}
 			- requirements (e.g. Time schedules, platforms, controls)
-			  collapsed:: true
 				- Skill Requirements
 				  collapsed:: true
 					- {{embed ((64512153-ccb6-45e2-8d71-a43a509aee49))}}
@@ -119,21 +115,28 @@ collapsed:: true
 		- ### Stereotyped views on games and gaming
 			- Posters complained about stigma towards gaming. These biases can appear in different ways.
 				- Some explained how their families saw games as an activity for children, describing how they are looked down on for playing in spite of how successful they might be in other aspects of life.
+					- {{embed ((65119b91-89cb-4737-bcef-2c9ab1b1dd79))}}
+					- {{embed ((65119b8d-f883-4639-9429-e4a84ac9664e))}}
+					-
 				- Others had conflicts with how games were portrayed as "dumb activities" or how they were a waste of time.
+					-
+						- {{embed ((65119b8d-551c-4fe2-9285-6cc4238742ba))}}
 					- Related, some don't see value in playing. Failing to see the power of narrative delivery of games or how they can support social interaction (unsure about this last part?)
+						- {{embed ((65119b8d-2cdc-4c13-8f34-4a7c29403ffe))}}
+						- {{embed ((65119b8f-bd72-4822-9f56-12075760e9a6))}}
 		- ### Forms of Shared experience.
 			- Connecting with each other through a shared activity
-			  collapsed:: true
 				- **Discussion:** on why or how this is easier with games than other mediums?
 					- Games tend to require active participation and cooperating promotes communication which is a good support for building relationships (*is this true?)*
 			- #### Sharing experience during gameplay
 				- ##### Experiencing games without playing them (spectating)
-				  collapsed:: true
 					- Playing games is not the only way to experience them. This can be seen in the posts we gathered, specifically how some families experienced games by having one person playing them and either spectating or discussing the experience with each other.
 						- It is especially easy to experience narrative-focused games by spectating someone else playing. In these cases, discussion tends to be generated around major plot points or decisions the player has to make.
+							- {{embed ((64512151-3191-48c7-b1c4-285a2719a304))}}
+							- {{embed ((65119b91-a9fd-48b4-a945-54c1812f02c2))}}
+							-
 			- #### Social interactions outside of gameplay caused by games
 				- ##### Discussing Aspects of game
-				  collapsed:: true
 					- Making conversation, chit-chat, jokes, random stuff
 					  collapsed:: true
 						- {{embed ((64512152-5a27-4ca7-9fa7-75bc47180483))}}
@@ -158,65 +161,83 @@ collapsed:: true
 						- {{embed ((643eb9b6-ff46-4e69-95f2-43d81dd010a6))}}
 							- {{embed ((643eb9b6-7fad-44ba-bebe-936ec7dbe627))}}
 				- ##### Reliving game in real life
-				  collapsed:: true
 					- How games translate into activities in real life
+						- Cosplay (Why is this relevant? Acting out with family? Any REF on how this improves bonding?)
+							- {{embed ((64512151-2c52-47e0-8bcc-50ad499b5d4e))}}
 					- Private Jokes
-					  collapsed:: true
 						- {{embed ((64512152-5a27-4ca7-9fa7-75bc47180483))}}
-					- Cosplay (Why is this relevant? Acting out with family? Any REF on how this improves bonding?)
-					  collapsed:: true
-						- {{embed ((64512151-2c52-47e0-8bcc-50ad499b5d4e))}}
 					- Gifts
-					  collapsed:: true
 						- {{embed ((64512151-db62-40df-b727-4b56614ca4a3))}}
 			- #### Sharing Gaming Spaces / Spontaneous interactions
-				- Going into someone's private space to play is not the same as a Shared Gaming Space (?)
-				  collapsed:: true
+				- Going into someone's private space to play is not the same as a Shared Gaming Space (?). Many references of playing together in a shared space but very little examples of joining someone while playing in their private room (e.g., bedroom)
 					- {{embed ((64512151-51f0-4079-a32d-0e6651deaf54))}}
 				- Shared Gaming Spaces as Spontaneous interaction prompters
+					- {{embed ((65119b8d-eb93-48cf-815c-a7f15872b41a))}}
+						- {{embed ((65119b8d-4273-440d-95f8-1f47030c5ba1))}}
+					- In some cases, asking to release the television to let someone play can create moments of spectating
+						- {{embed ((65119b8f-5fbb-4413-bf08-5ad0a9aa19f2))}}
+							- {{embed ((65119b8f-bd82-4f94-933c-fd796afc6c50))}}
+							- {{embed ((65119b8f-a20f-417f-ab38-e06a3a5ac6c5))}}
+							- {{embed ((65119b8f-ef70-4439-b90e-66484d2a0dd8))}}
+							- {{embed ((64424d91-3fed-4cdc-8d5c-d24e232b2d74))}}
 				- Shared Gaming Spaces as passive media consumption (e.g. watching someone else play as a bystander)
+					- {{embed ((65119b91-2247-40ad-a5c1-d43d7df190d6))}}
+						- {{embed ((65119b91-1c63-4ecf-accf-9099db25e9c0))}}
+					-
 		- ### (Re)Initiating Play
 			- It is important to understand how *gamers* introduce the medium to their fellow family members. This can inspire novel features that support sharing these experiences with less experienced players or people that do not play at all.
 			- Games are generally **too complex** to introduce to someone not used to them
-			  collapsed:: true
 				- {{embed ((64512153-9227-4d8c-beb7-f74753f77237))}}
 				- {{embed ((64512154-932f-4935-a2c9-671d40ed232a))}}
 				-
-			- Influence of **other media**
-			  collapsed:: true
-				- {{embed ((64512154-c43d-4ee7-bed2-dfcdafef5ca3))}}
-				- {{embed ((64512151-3f71-4176-8ef0-6202bbc73b8a))}}
-			- **Connection with past**
-			  collapsed:: true
-				- {{embed ((64512152-9b46-470f-8f50-fe49cd999fa0))}}
-			- **For other** family members
+			- But it can be helped by a range of factors
+				- Influence of **other media**
+					- {{embed ((64512154-c43d-4ee7-bed2-dfcdafef5ca3))}}
+					- {{embed ((64512151-3f71-4176-8ef0-6202bbc73b8a))}}
+				- **Connection with past**
+					- {{embed ((64512152-9b46-470f-8f50-fe49cd999fa0))}}
+			- Some looked for ways to set a game up **For other** family members to play
 				- [[Affected by Family/Facilitating others' play]]
 				- Generally older parents.
+					- a 70 years old dad receives an xbox as a gift and is thrilled about it
+						- {{embed ((65119b8e-3de1-4997-ae4e-0f36adc39274))}}
+							- This experience seems to have persisted and created new dynamics between the father and son
+								- {{embed ((65119b8e-473b-4a36-ad3b-d8d6842151be))}}
 				- Some already had experience with games
+					-
 			- **With other** family members
 				- Some posters asked for suggestions of games to play with other family members (e.g. spouses, children, parents).
 					- Here, many exposed difficulties felt when introducing games to others.
 						- Mainly easiness to learn
-						- Controls
+							- {{embed ((64512153-9227-4d8c-beb7-f74753f77237))}}
+							- {{embed ((64512153-14b4-4443-a169-9226e5203a4d))}}
+							- Difficult Controls or assumption of Gaming Literacy (Discussion point) can lead to this
+								- {{embed ((64512154-932f-4935-a2c9-671d40ed232a))}}
+							- The Language barrier is also important to point out
+								- {{embed ((64512152-caff-41cb-8561-79e31c682110))}}
+								-
 						- Suitability of content (e.g. nudity, gore)
+							- {{embed ((65119b8d-00e0-40ca-a500-ce4dbe0515e9))}}
+							- Mods were pointed out as a possible way to overcome this barrier
+								- {{embed ((65119b91-8f42-49ec-b26d-827980f178b3))}}
+									- {{embed ((65119b91-70b1-420c-be84-23cc1da4258c))}}
 		- ### Social Outcomes of Playing Together
 			- #### Relationship Maintenance Behaviours
-			  collapsed:: true
 				- {{embed ((64512151-51f0-4079-a32d-0e6651deaf54))}}
 				- {{embed ((64512152-8ff7-4543-aa49-cc2300dcd2b9))}}
 				- {{embed ((64512152-082a-432d-9012-2b6b5b2e4cf1))}}
+				- {{embed ((65119b92-2e71-4491-9e60-a7b81ba0f21c))}}
 			- #### Games for Coping
 			  collapsed:: true
 				- In line with how some people use games to escape reality (REF), also happens in families
 					- Remembering passed people
-					  collapsed:: true
 						- {{embed ((64512151-093c-4306-aee5-1f6391a7c196))}}
+							- {{embed ((65119b8d-b946-41bc-b9ed-11d78fcbdde2))}}
 						- {{embed ((64512151-4c37-4b4a-9694-1ded5cb6e261))}}
 					- Deathbed
-					  collapsed:: true
 						- {{embed ((64512154-5746-4bbc-8381-3b9ce8dd961f))}}
+						- {{embed ((65119b8e-76ad-46d8-8454-d175e7a380f2))}}
 					- Coping
-					  collapsed:: true
 						- {{embed ((64512152-c7a1-458b-b69f-203693b3593e))}}
 						- {{embed ((64512152-bde4-4c66-9772-b929dceff5e5))}}
 		- ### Mediation of play (family dynamics? Teaching moments?)
@@ -306,7 +327,7 @@ collapsed:: true
 				- Personally, I know I've seen this issue many times in my household.
 		- {{embed [[aowque-KingdomHearts]]}}
 		-
-# Limitations
-collapsed:: true
+- # Limitations
+  collapsed:: true
 	- No way to verify the content is real/true
 	- Gaming subreddits list may not contain some recent subreddits. For example, it did not contain the subreddit for the game "It Takes Two", released in 2021

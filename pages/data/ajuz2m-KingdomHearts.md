@@ -1,4 +1,5 @@
 state:: [[Coded]]
+exclude-from-graph-view:: true
 
 - Title
 	- [KH3][Other] I'll be playing this game in honor of my mom
@@ -8,6 +9,7 @@ state:: [[Coded]]
 	  tags:: [[Kinship/Parent]], [[Shared Experiences/Recounting Individual Experiences]], [[Media Component/Narrative]], [[Positive Valence]], [[Shared Experiences/Discussing Aspects of game]]
 	- 5 Years ago she was diagnosed with liver cancer and fought hard, went to remission and was diagnosed again last year. Before she passed away I spent time with her and she wanted to see the series first hand. I replayed the whole series for her, she watched, laughed and even cried at moments. I showed her all the latest trailers for KH3 and promised her we would play it together. Although she didn't get to see it I will still be playing it for her. This series taught me to appreciate the people around me and to keep my friends and family close. This game will be bittersweet for me but I look forward to seeing how it ends.
 	  tags:: [[Kinship/Parent]], [[Social Outcomes/Sharing in Hard Times]], [[Affected by Family/Grief Affecting]], [[Shared Experiences/Spectating]], [[Social Outcomes/Shared Emotions]], [[Learning Outcomes]], [[Shared Experiences/Co-located]]
+	  id:: 65119b8e-76ad-46d8-8454-d175e7a380f2
 	- **Edit** Thank you guys for the kind words! It really helps to hear the stories you guys have shared with me as well! Also thank you for the gold!
 - Comment
 	- Goddamnit. Right in the feels. RIP to your beautiful mom.

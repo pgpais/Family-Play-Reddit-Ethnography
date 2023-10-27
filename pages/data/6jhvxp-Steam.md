@@ -1,4 +1,5 @@
 state:: [[Coded]]
+exclude-from-graph-view:: true
 
 - Title
 	- I never thought I'd need to enable some form of Parental Controls on Steam. Thanks for horrifying my Mother.
@@ -10,15 +11,15 @@ state:: [[Coded]]
 	  tags:: [[Kinship/Parent]], [[Affected by Family/Facilitating others' play]]
 	- Earlier I got a call from her to come remove this "Damn" Steam from her computer and immediately knew something was up since that was probably the 10th time in my 40 years that I heard her use the word. She had left it open as she had found it so I could see and there in all it's glory was the first game in her queue: Genital Jousting.
 	  tags:: [[Kinship/Parent]], [[Game Accessibility/Content Suitability]]
+	  id:: 65119b8d-00e0-40ca-a500-ce4dbe0515e9
 	- It never occurred to me that I'd need to set a content filter because like I said she's fairly tolerant. However a cartoon cock-n-balls in the middle of her screen was a bit too much for her to handle.
 	  tags:: [[Kinship/Parent]], [[Game Accessibility/Content Suitability]]
 - Comment
 	- I'm trying to imagine her main carousel to maximize her traumatization
-	  
-	  * Genial Jousting
-	  * What's under your blanket
-	  * Shower with Dad Simulator (/u/realmenlovecats01)
-	  * Mount Your Friends (/u/Strog21)
-	  * Radiator 2 (/u/Blodoffer)
+		- Genial Jousting
+		- What's under your blanket
+		- Shower with Dad Simulator (/u/realmenlovecats01)
+		- Mount Your Friends (/u/Strog21)
+		- Radiator 2 (/u/Blodoffer)
 	- Feel free to add to the "Steam Carousel of Parental Trauma"
 	- On a more serious note since most digital games do not require certification/classification any parental controls would be moot since there's no way to flag a lot of games on Steam to filter based on that.

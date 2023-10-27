@@ -1,3 +1,5 @@
+exclude-from-graph-view:: true
+
 - # List of Codes
 	- [[Shared Experiences]]
 		- During Gameplay

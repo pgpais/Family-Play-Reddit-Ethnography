@@ -1,4 +1,5 @@
 state:: [[Coded]]
+exclude-from-graph-view:: true
 
 - Title
 	- Thank you, Call of the Sea, for making my relationship with my wife substantially better.
@@ -6,6 +7,7 @@ state:: [[Coded]]
 - Post
 	- Video games have always been a pain point for my marriage. Been married for 5 years now and I constantly get hassled for playing video games. I'll be the first to admit, I probably play a bit too much but my wife also admittedly gets irrationally unnerved by it. She claims it makes me somewhat of an adolescent in her mind sometimes which comes from a bit of a misnomer of video games in general and the stigma of the industry to the general public.
 	  tags:: [[Kinship/Spouse]] [[Attrition]] [[Gaming Stigma]]
+	  id:: 65119b91-89cb-4737-bcef-2c9ab1b1dd79
 	- Over the years, we've made some compromises and she has never forced me to completely stop playing and did what she could to quell her frustration. I really thank her for that. I also tried to introduce her to some good couch coop games but nothing stuck.
 	  tags:: [[Kinship/Spouse]] [[Shared Experiences/Co-playing]] [[Selecting Game]]
 	- Well I'm writing all of you now as she is sitting playing games for the 2nd day straight all thanks to Call of the Sea! Feels like a hell of a breakthrough. We talked about it nonstop at dinner and it seems like she was finally able to immerse herself in this world claiming, she felt as if she were a character in a pixar movie.
