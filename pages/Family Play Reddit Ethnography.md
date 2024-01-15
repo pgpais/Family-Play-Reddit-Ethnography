@@ -228,7 +228,6 @@ public:: true
 				- {{embed ((64512152-082a-432d-9012-2b6b5b2e4cf1))}}
 				- {{embed ((65119b92-2e71-4491-9e60-a7b81ba0f21c))}}
 			- #### Games for Coping
-			  collapsed:: true
 				- In line with how some people use games to escape reality (REF), also happens in families
 					- Remembering passed people
 						- {{embed ((64512151-093c-4306-aee5-1f6391a7c196))}}
@@ -239,7 +238,7 @@ public:: true
 						- {{embed ((65119b8e-76ad-46d8-8454-d175e7a380f2))}}
 					- Coping
 						- {{embed ((64512152-c7a1-458b-b69f-203693b3593e))}}
-						- {{embed ((64512152-bde4-4c66-9772-b929dceff5e5))}}
+							- {{embed ((64512152-bde4-4c66-9772-b929dceff5e5))}}
 		- ### Mediation of play (family dynamics? Teaching moments?)
 			- How families try to control amount of time dedicated to playing games (e.g. addiction)
 			- Games provide teaching moments
