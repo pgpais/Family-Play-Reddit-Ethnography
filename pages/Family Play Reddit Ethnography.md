@@ -78,6 +78,7 @@ public:: true
 					- [[Entry Point/Another Medium]]
 					- [[Entry Point/Connection with past]]
 - # Findings
+  collapsed:: true
 	- ## Data description
 		- Gaming together can take many forms
 			- Many posts of family spectating
@@ -101,7 +102,6 @@ public:: true
 					- {{embed ((64512151-465c-49fb-b91a-08feb41accdb))}}
 			- requirements (e.g. Time schedules, platforms, controls)
 				- Skill Requirements
-				  collapsed:: true
 					- {{embed ((64512153-ccb6-45e2-8d71-a43a509aee49))}}
 					- {{embed ((64512153-14b4-4443-a169-9226e5203a4d))}}
 					- {{embed ((64512154-90d4-4d05-8f34-4e017a3f06e7))}}
@@ -326,6 +326,28 @@ public:: true
 				- Personally, I know I've seen this issue many times in my household.
 		- {{embed [[aowque-KingdomHearts]]}}
 		-
+- # Discussion
+  id:: 65c4a633-7ecb-421c-81a5-9fb646584119
+	- No Asynchronous experiences?
+	- ## Leveraging Shared Gaming Spaces
+		- How to take advantage of shared gaming spaces
+		  id:: 65c4a639-3dc0-42a1-82fe-c01cc9116a0a
+			- Context-sensitive games?
+			- Occupying the one screen (television) with a game can be an opportunity to prompt interactions?
+				- Info on HUD for spectators,
+				- Narrative decision points
+				- Can this be similar to a tv show?
+	- ## Experiencing Games Vicariously
+		- Spectating Spectrum
+		- More active spectating experiences - explicit design decisions to elicit this, influencing narrative-decisions through the smartphone (e.g., [Hidden Agenda](https://en.wikipedia.org/wiki/Hidden_Agenda_(2017_video_game))).
+		- Prompting discussion/teaching (reference to Musick paper)
+		  id:: 65c4a972-6c73-4875-9bfe-1d7fe2613933
+	- ##
+		- Facilitating non-gamers’ entry in the medium - story and theme are fundamental, simpler roles
+		- How to deal with time constraints
+			- Or sidestep them altogether with asynchronous mechanics
+		- How to deal with unbalanced experiences (different expertise)
+	- Having games that adapt to the family/household? - adapting the game/stores, knowing that there is one young child with specific preferences and skills, a parent that likes to participate by influencing the narrative but not actually playing, etc.
 - # Limitations
   collapsed:: true
 	- No way to verify the content is real/true
