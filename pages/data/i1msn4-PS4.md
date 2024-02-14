@@ -44,5 +44,6 @@ exclude-from-graph-view:: true
 	  id:: 64424d91-3fed-4cdc-8d5c-d24e232b2d74
 	- This is something that I figured I would share here, as I think it's something you guys would appreciate. Thanks for reading!
 	- TL:DR; my dad hates video games. I played god of war with/for him, now he likes video games.
+	  id:: 65a4fddc-42be-4521-a8ad-94c2066402c7
 - Comment
 	- maybe he will start calling you boy now, or maybe the other way around!
