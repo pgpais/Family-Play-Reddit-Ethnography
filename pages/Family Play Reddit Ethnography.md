@@ -82,6 +82,7 @@ public:: true
 	- ## Gaming affected by family life
 	  id:: 65c60d6f-9d65-4ec3-b4b8-b3b3ddc760e9
 		- Mediation
+		  collapsed:: true
 		- Stereotyped views on games and gaming
 		- Having to deal with babies
 	- ## Sharing play: spaces and selection
@@ -92,6 +93,7 @@ public:: true
 		- Dynamics, who has the initiative, choosing the game
 		  id:: 65c60d6f-ccb5-47b0-9aa1-5f27677237d0
 	- ## Constraints for playing together
+	  id:: 65ce1a7a-b64a-45a9-8b06-b233cb39b1bc
 		- Asking for suggestions
 		- Different game preferences, time restrictions
 		- Skill level, suitability
@@ -109,7 +111,7 @@ public:: true
 		- Relationship maintenance
 		- Dealing with loneliness
 		- Dealing with hard times
-	- ## Games Identity
+	- ## Games that Represent Individuals or Relationships
 	  id:: 65c60d78-83b4-4cde-9985-cab40f6cc64a
 		- Personal identity
 		- Relationship “identity”
