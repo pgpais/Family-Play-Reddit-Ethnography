@@ -87,9 +87,9 @@ public:: true
 		- Having to deal with babies
 	- ## Sharing play: spaces and selection
 	  id:: 65c60d8c-49a0-426f-9928-f8abbfcb2b48
-		- How families play together
+		- How families end up playing together
 		  id:: 65c60d6f-0aa2-4883-8c31-2606022af399
-		- Gaming spaces - co-located, remote
+			- Gaming spaces - co-located, remote
 		- Dynamics, who has the initiative, choosing the game
 		  id:: 65c60d6f-ccb5-47b0-9aa1-5f27677237d0
 	- ## Constraints for playing together
