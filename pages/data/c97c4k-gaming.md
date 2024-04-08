@@ -1,5 +1,5 @@
 state:: [[Coded]]
-post-id::59
+post-id:: 59
 exclude-from-graph-view:: true
 
 - Title
